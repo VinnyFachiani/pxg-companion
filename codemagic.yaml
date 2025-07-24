@@ -8,7 +8,7 @@ workflows:
     environment:
       # Defina a versão do Node.js que seu projeto usa.
       # Verifique seu package.json ou a versão que você usa localmente.
-      node: 22.x # Ou 20.x, dependendo do seu projeto
+      node: 18.x # Ou 20.x, dependendo do seu projeto
       # Variáveis de ambiente para o React Native/Android
       # Certifique-se de que estas correspondem às suas necessidades
       vars:
@@ -35,13 +35,14 @@ workflows:
           android_sdk_version: '34' # Versão do SDK Android
           gradle_version: '8.1.0' # Versão do Gradle (compatível com AGP 8.1.0)
 
-      - install_flutter_and_android_sdk_tools: # Step para garantir ferramentas Android
-          android_sdk_tools_version: 'latest'
+      # Removido 'install_flutter_and_android_sdk_tools' pois não é padrão para React Native
+      # e pode estar causando erro de sintaxe ou incompatibilidade.
+      # O step 'install_gradle_and_android_sdk' já cuida da instalação do SDK Android.
 
       - install_node:
           version: $NODE_VERSION # Usa a versão definida em 'environment.node'
 
-      - install_npm: # Ou 'install_npm' se você usa npm
+      - install_yarn: # Ou 'install_npm' se você usa npm
           version: latest
 
       - cache_push:
@@ -82,48 +83,14 @@ workflows:
             # Navegue para o diretório Android do seu projeto Expo
             cd android
 
-            # Se você usa Expo, o comando de build pode ser diferente.
-            # Para projetos Expo "managed", você geralmente usa EAS CLI.
-            # Para projetos "bare" (ejected), você usaria gradlew.
-
-            # Exemplo para projetos Expo (usando EAS CLI)
-            # Certifique-se de ter o EAS CLI instalado globalmente no ambiente do Codemagic
-            # Isso pode ser feito com um step 'install_eas_cli' ou 'npm install -g eas-cli'
-            # (O Codemagic geralmente já tem o EAS CLI disponível)
-
-            # Para builds Expo, você pode precisar de um step específico do Codemagic
-            # ou instalar o EAS CLI e executar 'eas build' aqui.
-            # Por simplicidade, vamos usar o comando 'gradlew' que é mais comum em projetos bare
-            # e que o Codemagic pode executar diretamente.
-
             # Se seu projeto é um projeto Expo "bare" (ejected):
             ./gradlew bundleRelease # Gera o .aab (preferido para Play Store)
             # Ou para APK: ./gradlew assembleRelease
 
-            # Se seu projeto é um projeto Expo "managed" (ainda no fluxo do Expo Go/EAS):
-            # Você precisaria configurar o EAS CLI e fazer login no Codemagic
-            # Isso é mais complexo e geralmente o Codemagic tem steps dedicados para Expo.
-            # Para o seu caso, se o problema é só o picker, focar no build nativo é mais direto.
-
-            # Assumindo que você está construindo um projeto React Native "bare" ou que o Codemagic
-            # pode executar comandos Gradle diretamente no seu projeto Expo.
+            # Para um projeto React Native "bare" (ou se o Codemagic pode rodar gradlew diretamente no seu Expo)
             # Se você está usando Expo e não fez eject, o EAS Build é a forma nativa.
             # O Codemagic pode ter steps específicos para Expo que seriam mais fáceis.
             # Para este template, vamos focar no build Gradle.
-
-            # Se seu projeto é Expo e você usa 'eas build', você pode precisar de um step
-            # para instalar e logar no EAS CLI.
-            # - custom_script:
-            #     name: Install EAS CLI
-            #     script: npm install -g eas-cli
-            # - custom_script:
-            #     name: EAS Login
-            #     script: eas login --token $EXPO_ACCESS_TOKEN # Token configurado como variável segura no Codemagic
-            # - custom_script:
-            #     name: EAS Build
-            #     script: eas build --platform android --profile production --non-interactive
-
-            # Para um projeto React Native "bare" (ou se o Codemagic pode rodar gradlew diretamente no seu Expo)
             ./gradlew assembleRelease # Gera o APK de release
             # ./gradlew bundleRelease # Gera o AAB de release (recomendado para Play Store)
 
@@ -131,6 +98,6 @@ workflows:
           # Assina o APK/AAB com a chave que você configurou no Codemagic UI
           # Este step usa as credenciais que você carregou.
           
-      - deploy_to_bitrise_io:
+      - deploy_to_codemagic_io: # Nome do step corrigido para ser mais específico do Codemagic
           # Este step faz o upload do seu APK/AAB para o Codemagic.
           # Você poderá baixar o artefato da página de build.
