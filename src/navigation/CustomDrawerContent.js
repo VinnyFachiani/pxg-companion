@@ -1,3 +1,4 @@
+import 'react-native-gesture-handler';
 import React from 'react';
 import { View, Image, StyleSheet, ImageBackground } from 'react-native'; // Adicionado ImageBackground
 import { DrawerContentScrollView, DrawerItemList } from '@react-navigation/drawer';

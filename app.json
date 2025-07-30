@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "pxg-companion",
+    "name": "PXG Companion",
     "slug": "pxg-companion",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -30,6 +30,9 @@
       "eas": {
         "projectId": "ee9a407d-0325-45e3-a929-e79788a5c31e"
       }
-    }
+    },
+    "plugins": [
+      "react-native-edge-to-edge"
+    ]
   }
 }

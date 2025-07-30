@@ -22,6 +22,9 @@ const cardData = [
   { id: '1', title: 'Calculadora de Boost', image: require('../../assets/calculadoraBoost.png'), screen: 'CalcBoost' },
   { id: '2', title: 'Box Pokémon', image: require('../../assets/calculadoraBoost.png'), screen: 'BoxPokemon' },
   { id: '3', title: 'Respawn', image: require('../../assets/calculadoraBoost.png'), screen: 'Respawns' },
+  { id: '4', title: 'Em breve', image: require('../../assets/calculadoraBoost.png'), screen: '' },
+  { id: '5', title: 'Em breve', image: require('../../assets/calculadoraBoost.png'), screen: '' },
+  { id: '6', title: 'Em breve', image: require('../../assets/calculadoraBoost.png'), screen: '' },
 ];
 
 

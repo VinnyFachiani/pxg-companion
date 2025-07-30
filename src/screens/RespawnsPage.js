@@ -8,13 +8,20 @@ import {
   FlatList,
   ScrollView,
   ImageBackground,
-  TextInput, // Para a caixa de texto
   Platform,
   StatusBar,
-  Dimensions, // Para ajustar o padding no Android
+  Dimensions,
+  TextInput,
 } from 'react-native';
 
-// Importa os dados dos respawns (certifique-se de que este caminho está correto)
+// --- INÍCIO DAS MODIFICAÇÕES ---
+
+// 1. Importe o seu image_map.js
+// ATENÇÃO: Ajuste o caminho '../utils/image_map' para onde você salvou o seu arquivo image_map.js
+import pokemonImageMap from '../../assets/image_map';
+
+// --- FIM DAS MODIFICAÇÕES ---
+
 import datarespawn from '../data/dataRespawns.json';
 
 function RespawnsPage() {
@@ -23,19 +30,15 @@ function RespawnsPage() {
   const [searchResults, setSearchResults] = useState([]);
   const [allPokemonNames, setAllPokemonNames] = useState([]);
   const inputRef = useRef(null);
-  const suggestionsRef = useRef(null);
 
-  // Carrega todos os nomes de Pokémon únicos do datarespawn.json
   useEffect(() => {
     const uniqueNames = new Set();
-    // Itera diretamente sobre o array datarespawn
     datarespawn.forEach(item => {
       uniqueNames.add(item.pokemon.name);
     });
-    setAllPokemonNames(Array.from(uniqueNames).sort()); // Ordena alfabeticamente
+    setAllPokemonNames(Array.from(uniqueNames).sort());
   }, []);
 
-  // Lida com a mudança no campo de busca para gerar sugestões
   const handleInputChange = (value) => {
     setSearchTerm(value);
 
@@ -49,17 +52,14 @@ function RespawnsPage() {
     }
   };
 
-  // Lida com a seleção de uma sugestão
   const handleSelectSuggestion = (pokemonName) => {
     setSearchTerm(pokemonName);
-    setSuggestions([]); // Limpa as sugestões
-    performSearch(pokemonName); // Realiza a busca imediatamente
+    setSuggestions([]);
+    performSearch(pokemonName);
   };
 
-  // Função para realizar a busca no datarespawn
   const performSearch = (nameToSearch) => {
     const results = [];
-    // Itera diretamente sobre o array datarespawn
     datarespawn.forEach(item => {
       if (item.pokemon.name.toLowerCase() === nameToSearch.toLowerCase()) {
         results.push(item);
@@ -68,7 +68,6 @@ function RespawnsPage() {
     setSearchResults(results);
   };
 
-  // Renderiza cada item da sugestão
   const renderSuggestionItem = ({ item }) => (
     <TouchableOpacity
       style={styles.suggestionItem}
@@ -81,11 +80,20 @@ function RespawnsPage() {
   // Renderiza cada card de resultado de Pokémon
   const renderPokemonResultCard = ({ item }) => (
     <View style={styles.pokemonResultCard}>
+      {/* --- INÍCIO DA MODIFICAÇÃO DA IMAGEM --- */}
       <Image
-        source={{ uri: item.pokemon.icon }}
+        // Acessa a imagem do mapa usando o ID do Pokémon como string
+        // Assumimos que item.pokemon.id existe e corresponde às chaves numéricas no image_map.js
+        source={pokemonImageMap[item.pokemon.icon.toString()]}
         style={styles.pokemonResultImage}
-        onError={(e) => { e.nativeEvent.error = null; e.target.src = "https://placehold.co/64x64/cccccc/000000?text=?" }} // Fallback para imagem
+        // O `onError` para imagens locais carregadas via `require` geralmente não é necessário.
+        // Se a referência em `image_map.js` estiver incorreta ou a imagem não existir,
+        // o Metro Bundler (React Native) já avisará durante a compilação ou causará um erro em tempo de execução.
+        // O fallback para "https://placehold.co" é mais para imagens externas.
+        // Se você ainda quiser um fallback local, pode usar uma imagem de placeholder local, ex:
+        // source={pokemonImageMap[item.pokemon.id.toString()] || require('../../assets/placeholder.png')}
       />
+      {/* --- FIM DA MODIFICAÇÃO DA IMAGEM --- */}
       <View>
         <Text style={styles.pokemonResultName}>{item.pokemon.name}</Text>
         <Text style={styles.pokemonResultDetail}>Coordenadas: <Text style={styles.pokemonResultCoords}>{item.coords}</Text></Text>
@@ -96,16 +104,16 @@ function RespawnsPage() {
 
   return (
     <ImageBackground
-      source={require('../../assets/bg.jpg')} // Caminho para sua imagem de fundo
+      source={require('../../assets/bg.jpg')}
       style={styles.backgroundImage}
       resizeMode="cover"
     >
       <ScrollView
         style={styles.scrollViewContent}
         contentContainerStyle={[
-          styles.contentContainer,          
+          styles.contentContainer,
         ]}
-        keyboardShouldPersistTaps="handled" // Mantém o teclado aberto ao tocar nas sugestões
+        keyboardShouldPersistTaps="handled"
       >
         <Text style={styles.pageTitle}>Localizador de Respawns Pokémon</Text>
 
@@ -117,7 +125,7 @@ function RespawnsPage() {
             onChangeText={handleInputChange}
             placeholder="Digite o nome do Pokémon..."
             placeholderTextColor="#aaa"
-            onSubmitEditing={() => performSearch(searchTerm)} // Aciona a busca ao pressionar Enter/Done
+            onSubmitEditing={() => performSearch(searchTerm)}
           />
           <TouchableOpacity
             style={styles.searchButton}
@@ -128,12 +136,12 @@ function RespawnsPage() {
         </View>
 
         {suggestions.length > 0 && (
-          <View style={styles.suggestionsContainer} ref={suggestionsRef}>
+          <View style={styles.suggestionsContainer}>
             <FlatList
               data={suggestions}
               renderItem={renderSuggestionItem}
               keyExtractor={(item) => item}
-              keyboardShouldPersistTaps="always" // Garante que as sugestões sejam clicáveis
+              keyboardShouldPersistTaps="always"
             />
           </View>
         )}
@@ -144,8 +152,8 @@ function RespawnsPage() {
             <FlatList
               data={searchResults}
               renderItem={renderPokemonResultCard}
-              keyExtractor={(item, index) => item.pokemon.slug + item.coords + index} // Chave única
-              scrollEnabled={false} // Desabilita o scroll da FlatList para que o ScrollView pai cuide disso
+              keyExtractor={(item, index) => item.pokemon.slug + item.coords + index}
+              scrollEnabled={false}
             />
           </View>
         )}
@@ -153,8 +161,8 @@ function RespawnsPage() {
         {searchTerm.length > 0 && searchResults.length === 0 && (
           <Text style={styles.noResultsText}>Nenhum resultado encontrado para "{searchTerm}".</Text>
         )}
-        
-        <View style={{ height: 50 }} /> {/* Espaçamento extra no final para scroll */}
+
+        <View style={{ height: 50 }} />
       </ScrollView>
     </ImageBackground>
   );
@@ -177,8 +185,9 @@ const styles = StyleSheet.create({
   pageTitle: {
     fontSize: 28,
     fontWeight: 'bold',
-    color: '#ffffff',
+    color: '#fff',
     marginBottom: 20,
+    marginTop: 10,
     textAlign: 'center',
   },
   searchContainer: {
@@ -189,18 +198,18 @@ const styles = StyleSheet.create({
     backgroundColor: 'rgba(10, 10, 10, 0.9)',
     borderRadius: 30,
     overflow: 'hidden',
-    borderColor: '#ffffffff',
+    borderColor: '#fff',
     borderWidth: 2,
   },
   searchInput: {
     flex: 1,
     padding: 12,
     fontSize: 20,
-    color: '#ffffffff',
+    color: '#fff',
     fontWeight: 'bold'
   },
   searchButton: {
-    backgroundColor: '#ff0000ff',
+    backgroundColor: '#ff0000',
     paddingHorizontal: 15,
     justifyContent: 'center',
     alignItems: 'center',
@@ -208,22 +217,22 @@ const styles = StyleSheet.create({
     borderBottomRightRadius: 10,
   },
   searchButtonText: {
-    color: '#ffffff',
+    color: '#fff',
     fontSize: 15,
     fontWeight: 'bold',
   },
   suggestionsContainer: {
     position: 'absolute',
-    top: 145, // Ajuste conforme a altura do seu cabeçalho e campo de busca
+    top: 155,
     width: '100%',
     maxWidth: 400,
     backgroundColor: 'white',
     borderColor: '#ccc',
     borderWidth: 1,
     borderRadius: 30,
-    maxHeight: 200, // Limita a altura das sugestões
+    maxHeight: 200,
     overflow: 'hidden',
-    zIndex: 1000, // Garante que as sugestões fiquem acima de outros elementos
+    zIndex: 1000,
   },
   suggestionItem: {
     padding: 12,
@@ -233,7 +242,7 @@ const styles = StyleSheet.create({
   suggestionText: {
     fontSize: 16,
     fontWeight: 'bold',
-    color: '#000000ff',
+    color: '#000',
   },
   resultsContainer: {
     width: '100%',
@@ -243,12 +252,12 @@ const styles = StyleSheet.create({
     borderRadius: 20,
     marginTop: 20,
     borderWidth: 2,
-    borderColor: "#ffffff" // Espaçamento após a caixa de busca/sugestões
+    borderColor: "#fff"
   },
   resultsTitle: {
     fontSize: 22,
     fontWeight: 'bold',
-    color: '#ffffff',
+    color: '#fff',
     marginBottom: 15,
     textAlign: 'center',
   },
@@ -260,36 +269,36 @@ const styles = StyleSheet.create({
     borderRadius: 20,
     marginBottom: 10,
     borderWidth: 2,
-    borderColor: '#ffffffff',
+    borderColor: '#fff',
   },
   pokemonResultImage: {
     width: 70,
     height: 70,
     marginRight: 15,
-    borderRadius: 35, // Para imagens redondas
+    borderRadius: 35,
   },
   pokemonResultName: {
     fontSize: 20,
     fontWeight: 'bold',
-    color: '#ffffffff',
+    color: '#fff',
   },
   pokemonResultDetail: {
     fontSize: 16,
-    color: '#ffffffff',
+    color: '#fff',
   },
   pokemonResultCoords: {
-    fontFamily: Platform.OS === 'ios' ? 'Menlo' : 'monospace', // Fonte monoespaçada para coordenadas
+    fontFamily: Platform.OS === 'ios' ? 'Menlo' : 'monospace',
     paddingHorizontal: 6,
     paddingVertical: 2,
     fontSize: 15,
-    color: '#ffffffff',
+    color: '#fff',
     fontWeight: 'bold'
   },
   pokemonResultRegion: {
     fontWeight: '600',
   },
   noResultsText: {
-    color: '#ffffffff',
+    color: '#fff',
     fontSize: 16,
     textAlign: 'center',
     marginTop: 20,

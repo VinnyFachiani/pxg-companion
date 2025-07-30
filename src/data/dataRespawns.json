@@ -5,7 +5,7 @@
     "pokemon": {
       "name": "Paras",
       "slug": "paras",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png"
+      "icon": "46"
     }
   },
   {
@@ -14,7 +14,8 @@
     "pokemon": {
       "name": "Skiploom",
       "slug": "skiploom",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png"
+      "icon": "188"
+      
     }
   },
   {
@@ -23,7 +24,7 @@
     "pokemon": {
       "name": "Bayleef",
       "slug": "bayleef",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/153.png"
+      "icon": "153"
     }
   },
   {
@@ -32,7 +33,7 @@
     "pokemon": {
       "name": "Igglybuff",
       "slug": "igglybuff",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/174.png"
+      "icon": "174"
     }
   },
   {
@@ -41,7 +42,7 @@
     "pokemon": {
       "name": "Beedrill",
       "slug": "beedrill",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png"
+      "icon": "15"
     }
   },
   {
@@ -50,7 +51,7 @@
     "pokemon": {
       "name": "Snorlax",
       "slug": "snorlax",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png"
+      "icon": "143"
     }
   },
   {
@@ -59,7 +60,7 @@
     "pokemon": {
       "name": "Jumpluff",
       "slug": "jumpluff",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/189.png"
+      "icon": "189"
     }
   },
   {
@@ -68,7 +69,7 @@
     "pokemon": {
       "name": "Doduo",
       "slug": "doduo",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png"
+      "icon": "84"
     }
   },
   {
@@ -77,7 +78,7 @@
     "pokemon": {
       "name": "Doduo",
       "slug": "doduo",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png"
+      "icon": "84"
     }
   },
   {
@@ -86,7 +87,7 @@
     "pokemon": {
       "name": "Pidgeot",
       "slug": "pidgeot",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png"
+      "icon": "18"
     }
   },
   {
@@ -95,7 +96,7 @@
     "pokemon": {
       "name": "Pidgeot",
       "slug": "pidgeot",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png"
+      "icon": "18"
     }
   },
   {
@@ -104,7 +105,7 @@
     "pokemon": {
       "name": "Aipom",
       "slug": "aipom",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png"
+      "icon": "190"
     }
   },
   {
@@ -113,7 +114,7 @@
     "pokemon": {
       "name": "Dragonite",
       "slug": "dragonite",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png"
+      "icon": "149"
     }
   },
   {
@@ -122,7 +123,7 @@
     "pokemon": {
       "name": "Minun",
       "slug": "minun",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png"
+      "icon": "312"
     }
   },
   {
@@ -131,7 +132,7 @@
     "pokemon": {
       "name": "Ampharos",
       "slug": "ampharos",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/181.png"
+      "icon": "181"
     }
   },
   {
@@ -140,7 +141,7 @@
     "pokemon": {
       "name": "Ampharos",
       "slug": "ampharos",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/181.png"
+      "icon": "181"
     }
   },
   {
@@ -149,7 +150,7 @@
     "pokemon": {
       "name": "Ampharos",
       "slug": "ampharos",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/181.png"
+      "icon": "181"
     }
   },
   {
@@ -158,7 +159,7 @@
     "pokemon": {
       "name": "Charizard",
       "slug": "charizard",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png"
+      "icon": "6"
     }
   },
   {
@@ -167,7 +168,7 @@
     "pokemon": {
       "name": "Pichu",
       "slug": "pichu",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png"
+      "icon": "172"
     }
   },
   {
@@ -176,7 +177,7 @@
     "pokemon": {
       "name": "Pichu",
       "slug": "pichu",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png"
+      "icon": "172"
     }
   },
   {
@@ -185,7 +186,7 @@
     "pokemon": {
       "name": "Lanturn",
       "slug": "lanturn",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/171.png"
+      "icon": "171"
     }
   },
   {
@@ -194,7 +195,7 @@
     "pokemon": {
       "name": "Dratini",
       "slug": "dratini",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png"
+      "icon": "147"
     }
   },
   {
@@ -203,7 +204,7 @@
     "pokemon": {
       "name": "Pidgey",
       "slug": "pidgey",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png"
+      "icon": "16"
     }
   },
   {
@@ -212,7 +213,7 @@
     "pokemon": {
       "name": "Furret",
       "slug": "furret",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png"
+      "icon": "162"
     }
   },
   {
@@ -221,7 +222,7 @@
     "pokemon": {
       "name": "Furret",
       "slug": "furret",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png"
+      "icon": "162"
     }
   },
   {
@@ -230,7 +231,7 @@
     "pokemon": {
       "name": "Farfetch'D",
       "slug": "farfetch'd",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png"
+      "icon": "83"
     }
   },
   {
@@ -239,7 +240,7 @@
     "pokemon": {
       "name": "Munchlax",
       "slug": "munchlax",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/446.png"
+      "icon": "446"
     }
   },
   {
@@ -248,7 +249,7 @@
     "pokemon": {
       "name": "Teddiursa",
       "slug": "teddiursa",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png"
+      "icon": "216"
     }
   },
   {
@@ -257,7 +258,7 @@
     "pokemon": {
       "name": "Teddiursa",
       "slug": "teddiursa",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png"
+      "icon": "216"
     }
   },
   {
@@ -266,7 +267,7 @@
     "pokemon": {
       "name": "Togepi",
       "slug": "togepi",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/175.png"
+      "icon": "175"
     }
   },
   {
@@ -275,7 +276,7 @@
     "pokemon": {
       "name": "Togepi",
       "slug": "togepi",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/175.png"
+      "icon": "175"
     }
   },
   {
@@ -284,7 +285,7 @@
     "pokemon": {
       "name": "Piloswine",
       "slug": "piloswine",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png"
+      "icon": "221"
     }
   },
   {
@@ -293,7 +294,7 @@
     "pokemon": {
       "name": "Piloswine",
       "slug": "piloswine",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png"
+      "icon": "221"
     }
   },
   {
@@ -302,7 +303,7 @@
     "pokemon": {
       "name": "Togetic",
       "slug": "togetic",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/176.png"
+      "icon": "176"
     }
   },
   {
@@ -311,7 +312,7 @@
     "pokemon": {
       "name": "Pidgeotto",
       "slug": "pidgeotto",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png"
+      "icon": "17"
     }
   },
   {
@@ -320,7 +321,7 @@
     "pokemon": {
       "name": "Spearow",
       "slug": "spearow",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png"
+      "icon": "21"
     }
   },
   {
@@ -329,7 +330,7 @@
     "pokemon": {
       "name": "Swinub",
       "slug": "swinub",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/220.png"
+      "icon": "220"
     }
   },
   {
@@ -338,7 +339,7 @@
     "pokemon": {
       "name": "Lapras",
       "slug": "lapras",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png"
+      "icon": "131"
     }
   },
   {
@@ -347,7 +348,7 @@
     "pokemon": {
       "name": "Rhyhorn",
       "slug": "rhyhorn",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png"
+      "icon": "111"
     }
   },
   {
@@ -356,7 +357,7 @@
     "pokemon": {
       "name": "Rhydon",
       "slug": "rhydon",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png"
+      "icon": "112"
     }
   },
   {
@@ -365,7 +366,7 @@
     "pokemon": {
       "name": "Rhydon",
       "slug": "rhydon",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png"
+      "icon": "112"
     }
   },
   {
@@ -374,7 +375,7 @@
     "pokemon": {
       "name": "Glalie",
       "slug": "glalie",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/362.png"
+      "icon": "362"
     }
   },
   {
@@ -383,7 +384,7 @@
     "pokemon": {
       "name": "Wobbuffet",
       "slug": "wobbuffet",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/202.png"
+      "icon": "202"
     }
   },
   {
@@ -392,7 +393,7 @@
     "pokemon": {
       "name": "Goldeen",
       "slug": "goldeen",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png"
+      "icon": "118"
     }
   },
   {
@@ -401,7 +402,7 @@
     "pokemon": {
       "name": "Jynx",
       "slug": "jynx",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png"
+      "icon": "124"
     }
   },
   {
@@ -410,7 +411,7 @@
     "pokemon": {
       "name": "Dewgong",
       "slug": "dewgong",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png"
+      "icon": "87"
     }
   },
   {
@@ -419,7 +420,7 @@
     "pokemon": {
       "name": "Rapidash",
       "slug": "rapidash",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png"
+      "icon": "78"
     }
   },
   {
@@ -428,7 +429,7 @@
     "pokemon": {
       "name": "Rapidash",
       "slug": "rapidash",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png"
+      "icon": "78"
     }
   },
   {
@@ -437,7 +438,7 @@
     "pokemon": {
       "name": "Rapidash",
       "slug": "rapidash",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png"
+      "icon": "78"
     }
   },
   {
@@ -446,7 +447,7 @@
     "pokemon": {
       "name": "Meowth",
       "slug": "meowth",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png"
+      "icon": "52"
     }
   },
   {
@@ -455,7 +456,7 @@
     "pokemon": {
       "name": "Slugma",
       "slug": "slugma",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/218.png"
+      "icon": "218"
     }
   },
   {
@@ -464,7 +465,7 @@
     "pokemon": {
       "name": "Slugma",
       "slug": "slugma",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/218.png"
+      "icon": "218"
     }
   },
   {
@@ -473,7 +474,7 @@
     "pokemon": {
       "name": "Totodile",
       "slug": "totodile",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/158.png"
+      "icon": "158"
     }
   },
   {
@@ -482,7 +483,7 @@
     "pokemon": {
       "name": "Totodile",
       "slug": "totodile",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/158.png"
+      "icon": "158"
     }
   },
   {
@@ -491,7 +492,7 @@
     "pokemon": {
       "name": "Heracross",
       "slug": "heracross",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png"
+      "icon": "214"
     }
   },
   {
@@ -500,7 +501,7 @@
     "pokemon": {
       "name": "Ariados",
       "slug": "ariados",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png"
+      "icon": "168"
     }
   },
   {
@@ -509,7 +510,7 @@
     "pokemon": {
       "name": "Ariados",
       "slug": "ariados",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png"
+      "icon": "168"
     }
   },
   {
@@ -518,7 +519,7 @@
     "pokemon": {
       "name": "Caterpie",
       "slug": "caterpie",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png"
+      "icon": "10"
     }
   },
   {
@@ -527,7 +528,7 @@
     "pokemon": {
       "name": "Ledian",
       "slug": "ledian",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/166.png"
+      "icon": "166"
     }
   },
   {
@@ -536,7 +537,7 @@
     "pokemon": {
       "name": "Ledyba",
       "slug": "ledyba",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/165.png"
+      "icon": "165"
     }
   },
   {
@@ -545,7 +546,7 @@
     "pokemon": {
       "name": "Nidoranfe",
       "slug": "nidoranfe",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png"
+      "icon": "29"
     }
   },
   {
@@ -554,7 +555,7 @@
     "pokemon": {
       "name": "Nidoranma",
       "slug": "nidoranma",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png"
+      "icon": "32"
     }
   },
   {
@@ -563,7 +564,7 @@
     "pokemon": {
       "name": "Nidorino",
       "slug": "nidorino",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png"
+      "icon": "33"
     }
   },
   {
@@ -572,7 +573,7 @@
     "pokemon": {
       "name": "Metapod",
       "slug": "metapod",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png"
+      "icon": "11"
     }
   },
   {
@@ -581,7 +582,7 @@
     "pokemon": {
       "name": "Kakuna",
       "slug": "kakuna",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png"
+      "icon": "14"
     }
   },
   {
@@ -590,7 +591,7 @@
     "pokemon": {
       "name": "Forretress",
       "slug": "forretress",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png"
+      "icon": "205"
     }
   },
   {
@@ -599,7 +600,7 @@
     "pokemon": {
       "name": "Staryu",
       "slug": "staryu",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png"
+      "icon": "120"
     }
   },
   {
@@ -608,7 +609,7 @@
     "pokemon": {
       "name": "Scizor",
       "slug": "scizor",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png"
+      "icon": "212"
     }
   },
   {
@@ -617,7 +618,7 @@
     "pokemon": {
       "name": "Yanma",
       "slug": "yanma",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/193.png"
+      "icon": "193"
     }
   },
   {
@@ -626,7 +627,7 @@
     "pokemon": {
       "name": "Wooper",
       "slug": "wooper",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/194.png"
+      "icon": "194"
     }
   },
   {
@@ -635,7 +636,7 @@
     "pokemon": {
       "name": "Phanpy",
       "slug": "phanpy",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png"
+      "icon": "231"
     }
   },
   {
@@ -644,7 +645,7 @@
     "pokemon": {
       "name": "Gligar",
       "slug": "gligar",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/207.png"
+      "icon": "207"
     }
   },
   {
@@ -653,7 +654,7 @@
     "pokemon": {
       "name": "Quagsire",
       "slug": "quagsire",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png"
+      "icon": "195"
     }
   },
   {
@@ -662,7 +663,7 @@
     "pokemon": {
       "name": "Quagsire",
       "slug": "quagsire",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png"
+      "icon": "195"
     }
   },
   {
@@ -671,7 +672,7 @@
     "pokemon": {
       "name": "Zubat",
       "slug": "zubat",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png"
+      "icon": "41"
     }
   },
   {
@@ -680,7 +681,7 @@
     "pokemon": {
       "name": "Diglett",
       "slug": "diglett",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png"
+      "icon": "50"
     }
   },
   {
@@ -689,7 +690,7 @@
     "pokemon": {
       "name": "Geodude",
       "slug": "geodude",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png"
+      "icon": "74"
     }
   },
   {
@@ -698,7 +699,7 @@
     "pokemon": {
       "name": "Omanyte",
       "slug": "omanyte",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/138.png"
+      "icon": "138"
     }
   },
   {
@@ -707,7 +708,7 @@
     "pokemon": {
       "name": "Crobat",
       "slug": "crobat",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png"
+      "icon": "169"
     }
   },
   {
@@ -716,7 +717,7 @@
     "pokemon": {
       "name": "Crobat",
       "slug": "crobat",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png"
+      "icon": "169"
     }
   },
   {
@@ -725,7 +726,7 @@
     "pokemon": {
       "name": "Marowak",
       "slug": "marowak",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png"
+      "icon": "105"
     }
   },
   {
@@ -734,7 +735,7 @@
     "pokemon": {
       "name": "Tyranitar",
       "slug": "tyranitar",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png"
+      "icon": "248"
     }
   },
   {
@@ -743,7 +744,7 @@
     "pokemon": {
       "name": "Kingdra",
       "slug": "kingdra",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png"
+      "icon": "230"
     }
   },
   {
@@ -752,7 +753,7 @@
     "pokemon": {
       "name": "Politoed",
       "slug": "politoed",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/186.png"
+      "icon": "186"
     }
   },
   {
@@ -761,7 +762,7 @@
     "pokemon": {
       "name": "Poliwrath",
       "slug": "poliwrath",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png"
+      "icon": "62"
     }
   },
   {
@@ -770,7 +771,7 @@
     "pokemon": {
       "name": "Mantine",
       "slug": "mantine",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/226.png"
+      "icon": "226"
     }
   },
   {
@@ -779,7 +780,7 @@
     "pokemon": {
       "name": "Marill",
       "slug": "marill",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png"
+      "icon": "183"
     }
   },
   {
@@ -788,7 +789,7 @@
     "pokemon": {
       "name": "Kingler",
       "slug": "kingler",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png"
+      "icon": "99"
     }
   },
   {
@@ -797,7 +798,7 @@
     "pokemon": {
       "name": "Kingler",
       "slug": "kingler",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png"
+      "icon": "99"
     }
   },
   {
@@ -806,7 +807,7 @@
     "pokemon": {
       "name": "Kingler",
       "slug": "kingler",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png"
+      "icon": "99"
     }
   },
   {
@@ -815,7 +816,7 @@
     "pokemon": {
       "name": "Krabby",
       "slug": "krabby",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png"
+      "icon": "98"
     }
   },
   {
@@ -824,7 +825,7 @@
     "pokemon": {
       "name": "Octillery",
       "slug": "octillery",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png"
+      "icon": "224"
     }
   },
   {
@@ -833,7 +834,7 @@
     "pokemon": {
       "name": "Octillery",
       "slug": "octillery",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png"
+      "icon": "224"
     }
   },
   {
@@ -842,7 +843,7 @@
     "pokemon": {
       "name": "Machop",
       "slug": "machop",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png"
+      "icon": "66"
     }
   },
   {
@@ -851,7 +852,7 @@
     "pokemon": {
       "name": "Machop",
       "slug": "machop",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png"
+      "icon": "66"
     }
   },
   {
@@ -860,7 +861,7 @@
     "pokemon": {
       "name": "Hitmonchan",
       "slug": "hitmonchan",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png"
+      "icon": "107"
     }
   },
   {
@@ -869,7 +870,7 @@
     "pokemon": {
       "name": "Muk",
       "slug": "muk",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png"
+      "icon": "89"
     }
   },
   {
@@ -878,7 +879,7 @@
     "pokemon": {
       "name": "Grimer",
       "slug": "grimer",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png"
+      "icon": "88"
     }
   },
   {
@@ -887,7 +888,7 @@
     "pokemon": {
       "name": "Grimer",
       "slug": "grimer",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png"
+      "icon": "88"
     }
   },
   {
@@ -896,7 +897,7 @@
     "pokemon": {
       "name": "Hitmonlee",
       "slug": "hitmonlee",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png"
+      "icon": "106"
     }
   },
   {
@@ -905,7 +906,7 @@
     "pokemon": {
       "name": "Gengar",
       "slug": "gengar",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png"
+      "icon": "94"
     }
   },
   {
@@ -914,7 +915,7 @@
     "pokemon": {
       "name": "Skarmory",
       "slug": "skarmory",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png"
+      "icon": "227"
     }
   },
   {
@@ -923,7 +924,7 @@
     "pokemon": {
       "name": "Hitmontop",
       "slug": "hitmontop",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png"
+      "icon": "237"
     }
   },
   {
@@ -932,7 +933,7 @@
     "pokemon": {
       "name": "Snubbull",
       "slug": "snubbull",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/209.png"
+      "icon": "209"
     }
   },
   {
@@ -941,7 +942,7 @@
     "pokemon": {
       "name": "Snubbull",
       "slug": "snubbull",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/209.png"
+      "icon": "209"
     }
   },
   {
@@ -950,7 +951,7 @@
     "pokemon": {
       "name": "Miltank",
       "slug": "miltank",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/241.png"
+      "icon": "241"
     }
   },
   {
@@ -959,7 +960,7 @@
     "pokemon": {
       "name": "Yamask",
       "slug": "yamask",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/562.png"
+      "icon": "562"
     }
   },
   {
@@ -968,7 +969,7 @@
     "pokemon": {
       "name": "Buneary",
       "slug": "buneary",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/427.png"
+      "icon": "427"
     }
   },
   {
@@ -977,7 +978,7 @@
     "pokemon": {
       "name": "Electabuzz",
       "slug": "electabuzz",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png"
+      "icon": "125"
     }
   },
   {
@@ -986,7 +987,7 @@
     "pokemon": {
       "name": "Oddish",
       "slug": "oddish",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png"
+      "icon": "43"
     }
   },
   {
@@ -995,7 +996,7 @@
     "pokemon": {
       "name": "Dragonair",
       "slug": "dragonair",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png"
+      "icon": "148"
     }
   },
   {
@@ -1004,7 +1005,7 @@
     "pokemon": {
       "name": "Wigglytuff",
       "slug": "wigglytuff",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png"
+      "icon": "40"
     }
   },
   {
@@ -1013,7 +1014,7 @@
     "pokemon": {
       "name": "Cleffa",
       "slug": "cleffa",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/173.png"
+      "icon": "173"
     }
   },
   {
@@ -1022,7 +1023,7 @@
     "pokemon": {
       "name": "Cleffa",
       "slug": "cleffa",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/173.png"
+      "icon": "173"
     }
   },
   {
@@ -1031,7 +1032,7 @@
     "pokemon": {
       "name": "Dodrio",
       "slug": "dodrio",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png"
+      "icon": "85"
     }
   },
   {
@@ -1040,7 +1041,7 @@
     "pokemon": {
       "name": "Dodrio",
       "slug": "dodrio",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png"
+      "icon": "85"
     }
   },
   {
@@ -1049,7 +1050,7 @@
     "pokemon": {
       "name": "Dodrio",
       "slug": "dodrio",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png"
+      "icon": "85"
     }
   },
   {
@@ -1058,7 +1059,7 @@
     "pokemon": {
       "name": "Rotom",
       "slug": "rotom",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png"
+      "icon": "479"
     }
   },
   {
@@ -1067,7 +1068,7 @@
     "pokemon": {
       "name": "Camerupt",
       "slug": "camerupt",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/323.png"
+      "icon": "323"
     }
   },
   {
@@ -1076,7 +1077,7 @@
     "pokemon": {
       "name": "Ekans",
       "slug": "ekans",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png"
+      "icon": "23"
     }
   },
   {
@@ -1085,7 +1086,7 @@
     "pokemon": {
       "name": "Psyduck",
       "slug": "psyduck",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png"
+      "icon": "54"
     }
   },
   {
@@ -1094,7 +1095,7 @@
     "pokemon": {
       "name": "Tentacool",
       "slug": "tentacool",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/72.png"
+      "icon": "72"
     }
   },
   {
@@ -1103,7 +1104,7 @@
     "pokemon": {
       "name": "Quilava",
       "slug": "quilava",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/156.png"
+      "icon": "156"
     }
   },
   {
@@ -1112,7 +1113,7 @@
     "pokemon": {
       "name": "Horsea",
       "slug": "horsea",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png"
+      "icon": "116"
     }
   },
   {
@@ -1121,7 +1122,7 @@
     "pokemon": {
       "name": "Typhlosion",
       "slug": "typhlosion",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/157.png"
+      "icon": "157"
     }
   },
   {
@@ -1130,7 +1131,7 @@
     "pokemon": {
       "name": "Typhlosion",
       "slug": "typhlosion",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/157.png"
+      "icon": "157"
     }
   },
   {
@@ -1139,7 +1140,7 @@
     "pokemon": {
       "name": "Chinchou",
       "slug": "chinchou",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/170.png"
+      "icon": "170"
     }
   },
   {
@@ -1148,7 +1149,7 @@
     "pokemon": {
       "name": "Butterfree",
       "slug": "butterfree",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png"
+      "icon": "12"
     }
   },
   {
@@ -1157,7 +1158,7 @@
     "pokemon": {
       "name": "Remoraid",
       "slug": "remoraid",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/223.png"
+      "icon": "223"
     }
   },
   {
@@ -1166,7 +1167,7 @@
     "pokemon": {
       "name": "Sunkern",
       "slug": "sunkern",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png"
+      "icon": "191"
     }
   },
   {
@@ -1175,7 +1176,7 @@
     "pokemon": {
       "name": "Ivysaur",
       "slug": "ivysaur",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+      "icon": "2"
     }
   },
   {
@@ -1184,7 +1185,7 @@
     "pokemon": {
       "name": "Ivysaur",
       "slug": "ivysaur",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+      "icon": "2"
     }
   },
   {
@@ -1193,7 +1194,7 @@
     "pokemon": {
       "name": "Seadra",
       "slug": "seadra",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png"
+      "icon": "117"
     }
   },
   {
@@ -1202,7 +1203,7 @@
     "pokemon": {
       "name": "Misdreavus",
       "slug": "misdreavus",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/200.png"
+      "icon": "200"
     }
   },
   {
@@ -1211,7 +1212,7 @@
     "pokemon": {
       "name": "Surskit",
       "slug": "surskit",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/283.png"
+      "icon": "283"
     }
   },
   {
@@ -1220,7 +1221,7 @@
     "pokemon": {
       "name": "Bellsprout",
       "slug": "bellsprout",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png"
+      "icon": "69"
     }
   },
   {
@@ -1229,7 +1230,7 @@
     "pokemon": {
       "name": "Weepinbell",
       "slug": "weepinbell",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png"
+      "icon": "70"
     }
   },
   {
@@ -1238,7 +1239,7 @@
     "pokemon": {
       "name": "Exeggcute",
       "slug": "exeggcute",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/102.png"
+      "icon": "102"
     }
   },
   {
@@ -1247,7 +1248,7 @@
     "pokemon": {
       "name": "Murkrow",
       "slug": "murkrow",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/198.png"
+      "icon": "198"
     }
   },
   {
@@ -1256,7 +1257,7 @@
     "pokemon": {
       "name": "Togekiss",
       "slug": "togekiss",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png"
+      "icon": "468"
     }
   },
   {
@@ -1265,7 +1266,7 @@
     "pokemon": {
       "name": "Steelix",
       "slug": "steelix",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/208.png"
+      "icon": "208"
     }
   },
   {
@@ -1274,7 +1275,7 @@
     "pokemon": {
       "name": "Steelix",
       "slug": "steelix",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/208.png"
+      "icon": "208"
     }
   },
   {
@@ -1283,7 +1284,7 @@
     "pokemon": {
       "name": "Steelix",
       "slug": "steelix",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/208.png"
+      "icon": "208"
     }
   },
   {
@@ -1292,7 +1293,7 @@
     "pokemon": {
       "name": "Exeggutor",
       "slug": "exeggutor",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png"
+      "icon": "103"
     }
   },
   {
@@ -1301,7 +1302,7 @@
     "pokemon": {
       "name": "Exeggutor",
       "slug": "exeggutor",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png"
+      "icon": "103"
     }
   },
   {
@@ -1310,7 +1311,7 @@
     "pokemon": {
       "name": "Cubone",
       "slug": "cubone",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png"
+      "icon": "104"
     }
   },
   {
@@ -1319,7 +1320,7 @@
     "pokemon": {
       "name": "Vulpix",
       "slug": "vulpix",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png"
+      "icon": "37"
     }
   },
   {
@@ -1328,7 +1329,7 @@
     "pokemon": {
       "name": "Sandshrew",
       "slug": "sandshrew",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png"
+      "icon": "27"
     }
   },
   {
@@ -1337,7 +1338,7 @@
     "pokemon": {
       "name": "Sandshrew",
       "slug": "sandshrew",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png"
+      "icon": "27"
     }
   },
   {
@@ -1346,7 +1347,7 @@
     "pokemon": {
       "name": "Dugtrio",
       "slug": "dugtrio",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png"
+      "icon": "51"
     }
   },
   {
@@ -1355,7 +1356,7 @@
     "pokemon": {
       "name": "Dugtrio",
       "slug": "dugtrio",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png"
+      "icon": "51"
     }
   },
   {
@@ -1364,7 +1365,7 @@
     "pokemon": {
       "name": "Spinarak",
       "slug": "spinarak",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png"
+      "icon": "167"
     }
   },
   {
@@ -1373,7 +1374,7 @@
     "pokemon": {
       "name": "Spinarak",
       "slug": "spinarak",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png"
+      "icon": "167"
     }
   },
   {
@@ -1382,7 +1383,7 @@
     "pokemon": {
       "name": "Mareep",
       "slug": "mareep",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/179.png"
+      "icon": "179"
     }
   },
   {
@@ -1391,7 +1392,7 @@
     "pokemon": {
       "name": "Sunflora",
       "slug": "sunflora",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/192.png"
+      "icon": "192"
     }
   },
   {
@@ -1400,7 +1401,7 @@
     "pokemon": {
       "name": "Clefairy",
       "slug": "clefairy",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png"
+      "icon": "35"
     }
   },
   {
@@ -1409,7 +1410,7 @@
     "pokemon": {
       "name": "Abra",
       "slug": "abra",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png"
+      "icon": "63"
     }
   },
   {
@@ -1418,7 +1419,7 @@
     "pokemon": {
       "name": "Abra",
       "slug": "abra",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png"
+      "icon": "63"
     }
   },
   {
@@ -1427,7 +1428,7 @@
     "pokemon": {
       "name": "Voltorb",
       "slug": "voltorb",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png"
+      "icon": "100"
     }
   },
   {
@@ -1436,7 +1437,7 @@
     "pokemon": {
       "name": "Voltorb",
       "slug": "voltorb",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png"
+      "icon": "100"
     }
   },
   {
@@ -1445,7 +1446,7 @@
     "pokemon": {
       "name": "Numel",
       "slug": "numel",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/322.png"
+      "icon": "322"
     }
   },
   {
@@ -1454,7 +1455,7 @@
     "pokemon": {
       "name": "Haunter",
       "slug": "haunter",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png"
+      "icon": "93"
     }
   },
   {
@@ -1463,7 +1464,7 @@
     "pokemon": {
       "name": "Gastly",
       "slug": "gastly",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png"
+      "icon": "92"
     }
   },
   {
@@ -1472,7 +1473,7 @@
     "pokemon": {
       "name": "Gastly",
       "slug": "gastly",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png"
+      "icon": "92"
     }
   },
   {
@@ -1481,7 +1482,7 @@
     "pokemon": {
       "name": "Golbat",
       "slug": "golbat",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png"
+      "icon": "42"
     }
   },
   {
@@ -1490,7 +1491,7 @@
     "pokemon": {
       "name": "Floette",
       "slug": "floette",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/670.png"
+      "icon": "670"
     }
   },
   {
@@ -1499,7 +1500,7 @@
     "pokemon": {
       "name": "Electrode",
       "slug": "electrode",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png"
+      "icon": "101"
     }
   },
   {
@@ -1508,7 +1509,7 @@
     "pokemon": {
       "name": "Electrode",
       "slug": "electrode",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png"
+      "icon": "101"
     }
   },
   {
@@ -1517,7 +1518,7 @@
     "pokemon": {
       "name": "Smoochum",
       "slug": "smoochum",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/238.png"
+      "icon": "238"
     }
   },
   {
@@ -1526,7 +1527,7 @@
     "pokemon": {
       "name": "Smoochum",
       "slug": "smoochum",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/238.png"
+      "icon": "238"
     }
   },
   {
@@ -1535,7 +1536,7 @@
     "pokemon": {
       "name": "Alakazam",
       "slug": "alakazam",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png"
+      "icon": "65"
     }
   },
   {
@@ -1544,7 +1545,7 @@
     "pokemon": {
       "name": "Alakazam",
       "slug": "alakazam",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png"
+      "icon": "65"
     }
   },
   {
@@ -1553,7 +1554,7 @@
     "pokemon": {
       "name": "Growlithe",
       "slug": "growlithe",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png"
+      "icon": "58"
     }
   },
   {
@@ -1562,7 +1563,7 @@
     "pokemon": {
       "name": "Growlithe",
       "slug": "growlithe",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png"
+      "icon": "58"
     }
   },
   {
@@ -1571,7 +1572,7 @@
     "pokemon": {
       "name": "Flabébé",
       "slug": "flabebe",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png"
+      "icon": "669"
     }
   },
   {
@@ -1580,7 +1581,7 @@
     "pokemon": {
       "name": "Flabébé",
       "slug": "flabebe",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png"
+      "icon": "669"
     }
   },
   {
@@ -1589,7 +1590,7 @@
     "pokemon": {
       "name": "Chikorita",
       "slug": "chikorita",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png"
+      "icon": "152"
     }
   },
   {
@@ -1598,7 +1599,7 @@
     "pokemon": {
       "name": "Chikorita",
       "slug": "chikorita",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png"
+      "icon": "152"
     }
   },
   {
@@ -1607,7 +1608,7 @@
     "pokemon": {
       "name": "Chikorita",
       "slug": "chikorita",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png"
+      "icon": "152"
     }
   },
   {
@@ -1616,7 +1617,7 @@
     "pokemon": {
       "name": "Machoke",
       "slug": "machoke",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png"
+      "icon": "67"
     }
   },
   {
@@ -1625,7 +1626,7 @@
     "pokemon": {
       "name": "Machoke",
       "slug": "machoke",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png"
+      "icon": "67"
     }
   },
   {
@@ -1634,7 +1635,7 @@
     "pokemon": {
       "name": "Machoke",
       "slug": "machoke",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png"
+      "icon": "67"
     }
   },
   {
@@ -1643,7 +1644,7 @@
     "pokemon": {
       "name": "Gloom",
       "slug": "gloom",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png"
+      "icon": "44"
     }
   },
   {
@@ -1652,7 +1653,7 @@
     "pokemon": {
       "name": "Gloom",
       "slug": "gloom",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png"
+      "icon": "44"
     }
   },
   {
@@ -1661,7 +1662,7 @@
     "pokemon": {
       "name": "Drowzee",
       "slug": "drowzee",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png"
+      "icon": "96"
     }
   },
   {
@@ -1670,7 +1671,7 @@
     "pokemon": {
       "name": "Drowzee",
       "slug": "drowzee",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png"
+      "icon": "96"
     }
   },
   {
@@ -1679,7 +1680,7 @@
     "pokemon": {
       "name": "Drowzee",
       "slug": "drowzee",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png"
+      "icon": "96"
     }
   },
   {
@@ -1688,7 +1689,7 @@
     "pokemon": {
       "name": "Xatu",
       "slug": "xatu",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/178.png"
+      "icon": "178"
     }
   },
   {
@@ -1697,7 +1698,7 @@
     "pokemon": {
       "name": "Xatu",
       "slug": "xatu",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/178.png"
+      "icon": "178"
     }
   },
   {
@@ -1706,7 +1707,7 @@
     "pokemon": {
       "name": "Xatu",
       "slug": "xatu",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/178.png"
+      "icon": "178"
     }
   },
   {
@@ -1715,7 +1716,7 @@
     "pokemon": {
       "name": "Xatu",
       "slug": "xatu",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/178.png"
+      "icon": "178"
     }
   },
   {
@@ -1724,7 +1725,7 @@
     "pokemon": {
       "name": "Blastoise",
       "slug": "blastoise",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png"
+      "icon": "9"
     }
   },
   {
@@ -1733,7 +1734,7 @@
     "pokemon": {
       "name": "Blastoise",
       "slug": "blastoise",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png"
+      "icon": "9"
     }
   },
   {
@@ -1742,7 +1743,7 @@
     "pokemon": {
       "name": "Blastoise",
       "slug": "blastoise",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png"
+      "icon": "9"
     }
   },
   {
@@ -1751,7 +1752,7 @@
     "pokemon": {
       "name": "Zebstrika",
       "slug": "zebstrika",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/523.png"
+      "icon": "523"
     }
   },
   {
@@ -1760,7 +1761,7 @@
     "pokemon": {
       "name": "Venomoth",
       "slug": "venomoth",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png"
+      "icon": "49"
     }
   },
   {
@@ -1769,7 +1770,7 @@
     "pokemon": {
       "name": "Venomoth",
       "slug": "venomoth",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png"
+      "icon": "49"
     }
   },
   {
@@ -1778,7 +1779,7 @@
     "pokemon": {
       "name": "Venomoth",
       "slug": "venomoth",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png"
+      "icon": "49"
     }
   },
   {
@@ -1787,7 +1788,7 @@
     "pokemon": {
       "name": "Qwilfish",
       "slug": "qwilfish",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/211.png"
+      "icon": "211"
     }
   },
   {
@@ -1796,7 +1797,7 @@
     "pokemon": {
       "name": "Mankey",
       "slug": "mankey",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png"
+      "icon": "56"
     }
   },
   {
@@ -1805,7 +1806,7 @@
     "pokemon": {
       "name": "Primeape",
       "slug": "primeape",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png"
+      "icon": "57"
     }
   },
   {
@@ -1814,7 +1815,7 @@
     "pokemon": {
       "name": "Tangela",
       "slug": "tangela",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png"
+      "icon": "114"
     }
   },
   {
@@ -1823,7 +1824,7 @@
     "pokemon": {
       "name": "Tangela",
       "slug": "tangela",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png"
+      "icon": "114"
     }
   },
   {
@@ -1832,7 +1833,7 @@
     "pokemon": {
       "name": "Tentacruel",
       "slug": "tentacruel",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png"
+      "icon": "73"
     }
   },
   {
@@ -1841,7 +1842,7 @@
     "pokemon": {
       "name": "Tentacruel",
       "slug": "tentacruel",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png"
+      "icon": "73"
     }
   },
   {
@@ -1850,7 +1851,7 @@
     "pokemon": {
       "name": "Plusle",
       "slug": "plusle",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/311.png"
+      "icon": "311"
     }
   },
   {
@@ -1859,7 +1860,7 @@
     "pokemon": {
       "name": "Flaaffy",
       "slug": "flaaffy",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png"
+      "icon": "180"
     }
   },
   {
@@ -1868,7 +1869,7 @@
     "pokemon": {
       "name": "Flaaffy",
       "slug": "flaaffy",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png"
+      "icon": "180"
     }
   },
   {
@@ -1877,7 +1878,7 @@
     "pokemon": {
       "name": "Vileplume",
       "slug": "vileplume",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png"
+      "icon": "45"
     }
   },
   {
@@ -1886,7 +1887,7 @@
     "pokemon": {
       "name": "Vileplume",
       "slug": "vileplume",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png"
+      "icon": "45"
     }
   },
   {
@@ -1895,7 +1896,7 @@
     "pokemon": {
       "name": "Vileplume",
       "slug": "vileplume",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png"
+      "icon": "45"
     }
   },
   {
@@ -1904,7 +1905,7 @@
     "pokemon": {
       "name": "Victreebel",
       "slug": "victreebel",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png"
+      "icon": "71"
     }
   },
   {
@@ -1913,7 +1914,7 @@
     "pokemon": {
       "name": "Victreebel",
       "slug": "victreebel",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png"
+      "icon": "71"
     }
   },
   {
@@ -1922,7 +1923,7 @@
     "pokemon": {
       "name": "Victreebel",
       "slug": "victreebel",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png"
+      "icon": "71"
     }
   },
   {
@@ -1931,7 +1932,7 @@
     "pokemon": {
       "name": "Ponyta",
       "slug": "ponyta",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png"
+      "icon": "77"
     }
   },
   {
@@ -1940,7 +1941,7 @@
     "pokemon": {
       "name": "Ponyta",
       "slug": "ponyta",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png"
+      "icon": "77"
     }
   },
   {
@@ -1949,7 +1950,7 @@
     "pokemon": {
       "name": "Ponyta",
       "slug": "ponyta",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png"
+      "icon": "77"
     }
   },
   {
@@ -1958,7 +1959,7 @@
     "pokemon": {
       "name": "Ponyta",
       "slug": "ponyta",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png"
+      "icon": "77"
     }
   },
   {
@@ -1967,7 +1968,7 @@
     "pokemon": {
       "name": "Pinsir",
       "slug": "pinsir",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png"
+      "icon": "127"
     }
   },
   {
@@ -1976,7 +1977,7 @@
     "pokemon": {
       "name": "Pinsir",
       "slug": "pinsir",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png"
+      "icon": "127"
     }
   },
   {
@@ -1985,7 +1986,7 @@
     "pokemon": {
       "name": "Gyarados",
       "slug": "gyarados",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png"
+      "icon": "130"
     }
   },
   {
@@ -1994,7 +1995,7 @@
     "pokemon": {
       "name": "Gyarados",
       "slug": "gyarados",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png"
+      "icon": "130"
     }
   },
   {
@@ -2003,7 +2004,7 @@
     "pokemon": {
       "name": "Meganium",
       "slug": "meganium",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png"
+      "icon": "154"
     }
   },
   {
@@ -2012,7 +2013,7 @@
     "pokemon": {
       "name": "Meganium",
       "slug": "meganium",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png"
+      "icon": "154"
     }
   },
   {
@@ -2021,7 +2022,7 @@
     "pokemon": {
       "name": "Feraligatr",
       "slug": "feraligatr",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/160.png"
+      "icon": "160"
     }
   },
   {
@@ -2030,7 +2031,7 @@
     "pokemon": {
       "name": "Feraligatr",
       "slug": "feraligatr",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/160.png"
+      "icon": "160"
     }
   },
   {
@@ -2039,7 +2040,7 @@
     "pokemon": {
       "name": "Feraligatr",
       "slug": "feraligatr",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/160.png"
+      "icon": "160"
     }
   },
   {
@@ -2048,7 +2049,7 @@
     "pokemon": {
       "name": "Girafarig",
       "slug": "girafarig",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/203.png"
+      "icon": "203"
     }
   },
   {
@@ -2057,7 +2058,7 @@
     "pokemon": {
       "name": "Girafarig",
       "slug": "girafarig",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/203.png"
+      "icon": "203"
     }
   },
   {
@@ -2066,7 +2067,7 @@
     "pokemon": {
       "name": "Girafarig",
       "slug": "girafarig",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/203.png"
+      "icon": "203"
     }
   },
   {
@@ -2075,7 +2076,7 @@
     "pokemon": {
       "name": "Delibird",
       "slug": "delibird",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png"
+      "icon": "225"
     }
   },
   {
@@ -2084,7 +2085,7 @@
     "pokemon": {
       "name": "Delibird",
       "slug": "delibird",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png"
+      "icon": "225"
     }
   },
   {
@@ -2093,7 +2094,7 @@
     "pokemon": {
       "name": "Gliscor",
       "slug": "gliscor",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png"
+      "icon": "472"
     }
   },
   {
@@ -2102,7 +2103,7 @@
     "pokemon": {
       "name": "Gliscor",
       "slug": "gliscor",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png"
+      "icon": "472"
     }
   },
   {
@@ -2111,7 +2112,7 @@
     "pokemon": {
       "name": "Gliscor",
       "slug": "gliscor",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png"
+      "icon": "472"
     }
   },
   {
@@ -2120,7 +2121,7 @@
     "pokemon": {
       "name": "Nidorina",
       "slug": "nidorina",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png"
+      "icon": "30"
     }
   },
   {
@@ -2129,7 +2130,7 @@
     "pokemon": {
       "name": "Golduck",
       "slug": "golduck",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png"
+      "icon": "55"
     }
   },
   {
@@ -2138,7 +2139,7 @@
     "pokemon": {
       "name": "Cloyster",
       "slug": "cloyster",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png"
+      "icon": "91"
     }
   },
   {
@@ -2147,7 +2148,7 @@
     "pokemon": {
       "name": "Cloyster",
       "slug": "cloyster",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png"
+      "icon": "91"
     }
   },
   {
@@ -2156,7 +2157,7 @@
     "pokemon": {
       "name": "Koffing",
       "slug": "koffing",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png"
+      "icon": "109"
     }
   },
   {
@@ -2165,7 +2166,7 @@
     "pokemon": {
       "name": "Weezing",
       "slug": "weezing",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png"
+      "icon": "110"
     }
   },
   {
@@ -2174,7 +2175,7 @@
     "pokemon": {
       "name": "Weezing",
       "slug": "weezing",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png"
+      "icon": "110"
     }
   },
   {
@@ -2183,7 +2184,7 @@
     "pokemon": {
       "name": "Machamp",
       "slug": "machamp",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png"
+      "icon": "68"
     }
   },
   {
@@ -2192,7 +2193,7 @@
     "pokemon": {
       "name": "Hypno",
       "slug": "hypno",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png"
+      "icon": "97"
     }
   },
   {
@@ -2201,7 +2202,7 @@
     "pokemon": {
       "name": "Hypno",
       "slug": "hypno",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png"
+      "icon": "97"
     }
   },
   {
@@ -2210,7 +2211,7 @@
     "pokemon": {
       "name": "Rattata",
       "slug": "rattata",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png"
+      "icon": "19"
     }
   },
   {
@@ -2219,7 +2220,7 @@
     "pokemon": {
       "name": "Raticate",
       "slug": "raticate",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png"
+      "icon": "20"
     }
   },
   {
@@ -2228,7 +2229,7 @@
     "pokemon": {
       "name": "Raticate",
       "slug": "raticate",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png"
+      "icon": "20"
     }
   },
   {
@@ -2237,7 +2238,7 @@
     "pokemon": {
       "name": "Fearow",
       "slug": "fearow",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png"
+      "icon": "22"
     }
   },
   {
@@ -2246,7 +2247,7 @@
     "pokemon": {
       "name": "Fearow",
       "slug": "fearow",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png"
+      "icon": "22"
     }
   },
   {
@@ -2255,7 +2256,7 @@
     "pokemon": {
       "name": "Raichu",
       "slug": "raichu",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png"
+      "icon": "26"
     }
   },
   {
@@ -2264,7 +2265,7 @@
     "pokemon": {
       "name": "Raichu",
       "slug": "raichu",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png"
+      "icon": "26"
     }
   },
   {
@@ -2273,7 +2274,7 @@
     "pokemon": {
       "name": "Parasect",
       "slug": "parasect",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png"
+      "icon": "47"
     }
   },
   {
@@ -2282,7 +2283,7 @@
     "pokemon": {
       "name": "Parasect",
       "slug": "parasect",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png"
+      "icon": "47"
     }
   },
   {
@@ -2291,7 +2292,7 @@
     "pokemon": {
       "name": "Parasect",
       "slug": "parasect",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png"
+      "icon": "47"
     }
   },
   {
@@ -2300,7 +2301,7 @@
     "pokemon": {
       "name": "Persian",
       "slug": "persian",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png"
+      "icon": "53"
     }
   },
   {
@@ -2309,7 +2310,7 @@
     "pokemon": {
       "name": "Persian",
       "slug": "persian",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png"
+      "icon": "53"
     }
   },
   {
@@ -2318,7 +2319,7 @@
     "pokemon": {
       "name": "Scyther",
       "slug": "scyther",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png"
+      "icon": "123"
     }
   },
   {
@@ -2327,7 +2328,7 @@
     "pokemon": {
       "name": "Scyther",
       "slug": "scyther",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png"
+      "icon": "123"
     }
   },
   {
@@ -2336,7 +2337,7 @@
     "pokemon": {
       "name": "Scyther",
       "slug": "scyther",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png"
+      "icon": "123"
     }
   },
   {
@@ -2345,7 +2346,7 @@
     "pokemon": {
       "name": "Bellossom",
       "slug": "bellossom",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/182.png"
+      "icon": "182"
     }
   },
   {
@@ -2354,7 +2355,7 @@
     "pokemon": {
       "name": "Bellossom",
       "slug": "bellossom",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/182.png"
+      "icon": "182"
     }
   },
   {
@@ -2363,7 +2364,7 @@
     "pokemon": {
       "name": "Bellossom",
       "slug": "bellossom",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/182.png"
+      "icon": "182"
     }
   },
   {
@@ -2372,7 +2373,7 @@
     "pokemon": {
       "name": "Dunsparce",
       "slug": "dunsparce",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png"
+      "icon": "206"
     }
   },
   {
@@ -2381,7 +2382,7 @@
     "pokemon": {
       "name": "Dunsparce",
       "slug": "dunsparce",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png"
+      "icon": "206"
     }
   },
   {
@@ -2390,7 +2391,7 @@
     "pokemon": {
       "name": "Smeargle",
       "slug": "smeargle",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png"
+      "icon": "235"
     }
   },
   {
@@ -2399,7 +2400,7 @@
     "pokemon": {
       "name": "Smeargle",
       "slug": "smeargle",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png"
+      "icon": "235"
     }
   },
   {
@@ -2408,7 +2409,7 @@
     "pokemon": {
       "name": "Tyrogue",
       "slug": "tyrogue",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/236.png"
+      "icon": "236"
     }
   },
   {
@@ -2417,7 +2418,7 @@
     "pokemon": {
       "name": "Tyrogue",
       "slug": "tyrogue",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/236.png"
+      "icon": "236"
     }
   },
   {
@@ -2426,7 +2427,7 @@
     "pokemon": {
       "name": "Charmander",
       "slug": "charmander",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+      "icon": "4"
     }
   },
   {
@@ -2435,7 +2436,7 @@
     "pokemon": {
       "name": "Charmander",
       "slug": "charmander",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+      "icon": "4"
     }
   },
   {
@@ -2444,7 +2445,7 @@
     "pokemon": {
       "name": "Charmander",
       "slug": "charmander",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+      "icon": "4"
     }
   },
   {
@@ -2453,7 +2454,7 @@
     "pokemon": {
       "name": "Lopunny",
       "slug": "lopunny",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/428.png"
+      "icon": "428"
     }
   },
   {
@@ -2462,7 +2463,7 @@
     "pokemon": {
       "name": "Lopunny",
       "slug": "lopunny",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/428.png"
+      "icon": "428"
     }
   },
   {
@@ -2471,7 +2472,7 @@
     "pokemon": {
       "name": "Arbok",
       "slug": "arbok",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png"
+      "icon": "24"
     }
   },
   {
@@ -2480,7 +2481,7 @@
     "pokemon": {
       "name": "Arbok",
       "slug": "arbok",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png"
+      "icon": "24"
     }
   },
   {
@@ -2489,7 +2490,7 @@
     "pokemon": {
       "name": "Pikachu",
       "slug": "pikachu",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png"
+      "icon": "25"
     }
   },
   {
@@ -2498,7 +2499,7 @@
     "pokemon": {
       "name": "Pikachu",
       "slug": "pikachu",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png"
+      "icon": "25"
     }
   },
   {
@@ -2507,7 +2508,7 @@
     "pokemon": {
       "name": "Pikachu",
       "slug": "pikachu",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png"
+      "icon": "25"
     }
   },
   {
@@ -2516,7 +2517,7 @@
     "pokemon": {
       "name": "Nidoking",
       "slug": "nidoking",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png"
+      "icon": "34"
     }
   },
   {
@@ -2525,7 +2526,7 @@
     "pokemon": {
       "name": "Jigglypuff",
       "slug": "jigglypuff",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png"
+      "icon": "39"
     }
   },
   {
@@ -2534,7 +2535,7 @@
     "pokemon": {
       "name": "Nidoqueen",
       "slug": "nidoqueen",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png"
+      "icon": "31"
     }
   },
   {
@@ -2543,7 +2544,7 @@
     "pokemon": {
       "name": "Poliwag",
       "slug": "poliwag",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png"
+      "icon": "60"
     }
   },
   {
@@ -2552,7 +2553,7 @@
     "pokemon": {
       "name": "Kadabra",
       "slug": "kadabra",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png"
+      "icon": "64"
     }
   },
   {
@@ -2561,7 +2562,7 @@
     "pokemon": {
       "name": "Kadabra",
       "slug": "kadabra",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png"
+      "icon": "64"
     }
   },
   {
@@ -2570,7 +2571,7 @@
     "pokemon": {
       "name": "Kadabra",
       "slug": "kadabra",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png"
+      "icon": "64"
     }
   },
   {
@@ -2579,7 +2580,7 @@
     "pokemon": {
       "name": "Graveler",
       "slug": "graveler",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png"
+      "icon": "75"
     }
   },
   {
@@ -2588,7 +2589,7 @@
     "pokemon": {
       "name": "Graveler",
       "slug": "graveler",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png"
+      "icon": "75"
     }
   },
   {
@@ -2597,7 +2598,7 @@
     "pokemon": {
       "name": "Golem",
       "slug": "golem",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png"
+      "icon": "76"
     }
   },
   {
@@ -2606,7 +2607,7 @@
     "pokemon": {
       "name": "Golem",
       "slug": "golem",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png"
+      "icon": "76"
     }
   },
   {
@@ -2615,7 +2616,7 @@
     "pokemon": {
       "name": "Golem",
       "slug": "golem",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png"
+      "icon": "76"
     }
   },
   {
@@ -2624,7 +2625,7 @@
     "pokemon": {
       "name": "Slowpoke",
       "slug": "slowpoke",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png"
+      "icon": "79"
     }
   },
   {
@@ -2633,7 +2634,7 @@
     "pokemon": {
       "name": "Slowbro",
       "slug": "slowbro",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png"
+      "icon": "80"
     }
   },
   {
@@ -2642,7 +2643,7 @@
     "pokemon": {
       "name": "Magneton",
       "slug": "magneton",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png"
+      "icon": "82"
     }
   },
   {
@@ -2651,7 +2652,7 @@
     "pokemon": {
       "name": "Magneton",
       "slug": "magneton",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png"
+      "icon": "82"
     }
   },
   {
@@ -2660,7 +2661,7 @@
     "pokemon": {
       "name": "Magneton",
       "slug": "magneton",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png"
+      "icon": "82"
     }
   },
   {
@@ -2669,7 +2670,7 @@
     "pokemon": {
       "name": "Magnemite",
       "slug": "magnemite",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png"
+      "icon": "81"
     }
   },
   {
@@ -2678,7 +2679,7 @@
     "pokemon": {
       "name": "Magnemite",
       "slug": "magnemite",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png"
+      "icon": "81"
     }
   },
   {
@@ -2687,7 +2688,7 @@
     "pokemon": {
       "name": "Tauros",
       "slug": "tauros",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png"
+      "icon": "128"
     }
   },
   {
@@ -2696,7 +2697,7 @@
     "pokemon": {
       "name": "Kabuto",
       "slug": "kabuto",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png"
+      "icon": "140"
     }
   },
   {
@@ -2705,7 +2706,7 @@
     "pokemon": {
       "name": "Cyndaquil",
       "slug": "cyndaquil",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/155.png"
+      "icon": "155"
     }
   },
   {
@@ -2714,7 +2715,7 @@
     "pokemon": {
       "name": "Cyndaquil",
       "slug": "cyndaquil",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/155.png"
+      "icon": "155"
     }
   },
   {
@@ -2723,7 +2724,7 @@
     "pokemon": {
       "name": "Croconaw",
       "slug": "croconaw",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/159.png"
+      "icon": "159"
     }
   },
   {
@@ -2732,7 +2733,7 @@
     "pokemon": {
       "name": "Croconaw",
       "slug": "croconaw",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/159.png"
+      "icon": "159"
     }
   },
   {
@@ -2741,7 +2742,7 @@
     "pokemon": {
       "name": "Croconaw",
       "slug": "croconaw",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/159.png"
+      "icon": "159"
     }
   },
   {
@@ -2750,7 +2751,7 @@
     "pokemon": {
       "name": "Sentret",
       "slug": "sentret",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/161.png"
+      "icon": "161"
     }
   },
   {
@@ -2759,7 +2760,7 @@
     "pokemon": {
       "name": "Hoothoot",
       "slug": "hoothoot",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/163.png"
+      "icon": "163"
     }
   },
   {
@@ -2768,7 +2769,7 @@
     "pokemon": {
       "name": "Noctowl",
       "slug": "noctowl",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png"
+      "icon": "164"
     }
   },
   {
@@ -2777,7 +2778,7 @@
     "pokemon": {
       "name": "Noctowl",
       "slug": "noctowl",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png"
+      "icon": "164"
     }
   },
   {
@@ -2786,7 +2787,7 @@
     "pokemon": {
       "name": "Noctowl",
       "slug": "noctowl",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png"
+      "icon": "164"
     }
   },
   {
@@ -2795,7 +2796,7 @@
     "pokemon": {
       "name": "Noctowl",
       "slug": "noctowl",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png"
+      "icon": "164"
     }
   },
   {
@@ -2804,7 +2805,7 @@
     "pokemon": {
       "name": "Natu",
       "slug": "natu",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png"
+      "icon": "177"
     }
   },
   {
@@ -2813,7 +2814,7 @@
     "pokemon": {
       "name": "Natu",
       "slug": "natu",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png"
+      "icon": "177"
     }
   },
   {
@@ -2822,7 +2823,7 @@
     "pokemon": {
       "name": "Natu",
       "slug": "natu",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png"
+      "icon": "177"
     }
   },
   {
@@ -2831,7 +2832,7 @@
     "pokemon": {
       "name": "Natu",
       "slug": "natu",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png"
+      "icon": "177"
     }
   },
   {
@@ -2840,7 +2841,7 @@
     "pokemon": {
       "name": "Granbull",
       "slug": "granbull",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png"
+      "icon": "210"
     }
   },
   {
@@ -2849,7 +2850,7 @@
     "pokemon": {
       "name": "Granbull",
       "slug": "granbull",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png"
+      "icon": "210"
     }
   },
   {
@@ -2858,7 +2859,7 @@
     "pokemon": {
       "name": "Granbull",
       "slug": "granbull",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png"
+      "icon": "210"
     }
   },
   {
@@ -2867,7 +2868,7 @@
     "pokemon": {
       "name": "Sneasel",
       "slug": "sneasel",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/215.png"
+      "icon": "215"
     }
   },
   {
@@ -2876,7 +2877,7 @@
     "pokemon": {
       "name": "Sneasel",
       "slug": "sneasel",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/215.png"
+      "icon": "215"
     }
   },
   {
@@ -2885,7 +2886,7 @@
     "pokemon": {
       "name": "Azumarill",
       "slug": "azumarill",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png"
+      "icon": "184"
     }
   },
   {
@@ -2894,7 +2895,7 @@
     "pokemon": {
       "name": "Azumarill",
       "slug": "azumarill",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png"
+      "icon": "184"
     }
   },
   {
@@ -2903,7 +2904,7 @@
     "pokemon": {
       "name": "Magcargo",
       "slug": "magcargo",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png"
+      "icon": "219"
     }
   },
   {
@@ -2912,7 +2913,7 @@
     "pokemon": {
       "name": "Magcargo",
       "slug": "magcargo",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png"
+      "icon": "219"
     }
   },
   {
@@ -2921,7 +2922,7 @@
     "pokemon": {
       "name": "Houndour",
       "slug": "houndour",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png"
+      "icon": "228"
     }
   },
   {
@@ -2930,7 +2931,7 @@
     "pokemon": {
       "name": "Houndoom",
       "slug": "houndoom",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/229.png"
+      "icon": "229"
     }
   },
   {
@@ -2939,7 +2940,7 @@
     "pokemon": {
       "name": "Stantler",
       "slug": "stantler",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/234.png"
+      "icon": "234"
     }
   },
   {
@@ -2948,7 +2949,7 @@
     "pokemon": {
       "name": "Stantler",
       "slug": "stantler",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/234.png"
+      "icon": "234"
     }
   },
   {
@@ -2957,7 +2958,7 @@
     "pokemon": {
       "name": "Donphan",
       "slug": "donphan",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/232.png"
+      "icon": "232"
     }
   },
   {
@@ -2966,7 +2967,7 @@
     "pokemon": {
       "name": "Donphan",
       "slug": "donphan",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/232.png"
+      "icon": "232"
     }
   },
   {
@@ -2975,7 +2976,7 @@
     "pokemon": {
       "name": "Pupitar",
       "slug": "pupitar",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png"
+      "icon": "247"
     }
   },
   {
@@ -2984,7 +2985,7 @@
     "pokemon": {
       "name": "Pupitar",
       "slug": "pupitar",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png"
+      "icon": "247"
     }
   },
   {
@@ -2993,7 +2994,7 @@
     "pokemon": {
       "name": "Charmeleon",
       "slug": "charmeleon",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
+      "icon": "5"
     }
   },
   {
@@ -3002,7 +3003,7 @@
     "pokemon": {
       "name": "Charmeleon",
       "slug": "charmeleon",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
+      "icon": "5"
     }
   },
   {
@@ -3011,7 +3012,7 @@
     "pokemon": {
       "name": "Charmeleon",
       "slug": "charmeleon",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
+      "icon": "5"
     }
   },
   {
@@ -3020,7 +3021,7 @@
     "pokemon": {
       "name": "Starmie",
       "slug": "starmie",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png"
+      "icon": "121"
     }
   },
   {
@@ -3029,7 +3030,7 @@
     "pokemon": {
       "name": "Starmie",
       "slug": "starmie",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png"
+      "icon": "121"
     }
   },
   {
@@ -3038,7 +3039,7 @@
     "pokemon": {
       "name": "Wartortle",
       "slug": "wartortle",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png"
+      "icon": "8"
     }
   },
   {
@@ -3047,7 +3048,7 @@
     "pokemon": {
       "name": "Wartortle",
       "slug": "wartortle",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png"
+      "icon": "8"
     }
   },
   {
@@ -3056,7 +3057,7 @@
     "pokemon": {
       "name": "Squirtle",
       "slug": "squirtle",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png"
+      "icon": "7"
     }
   },
   {
@@ -3065,7 +3066,7 @@
     "pokemon": {
       "name": "Squirtle",
       "slug": "squirtle",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png"
+      "icon": "7"
     }
   },
   {
@@ -3074,7 +3075,7 @@
     "pokemon": {
       "name": "Magmar",
       "slug": "magmar",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png"
+      "icon": "126"
     }
   },
   {
@@ -3083,7 +3084,7 @@
     "pokemon": {
       "name": "Magmar",
       "slug": "magmar",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png"
+      "icon": "126"
     }
   },
   {
@@ -3092,7 +3093,7 @@
     "pokemon": {
       "name": "Arcanine",
       "slug": "arcanine",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png"
+      "icon": "59"
     }
   },
   {
@@ -3101,7 +3102,7 @@
     "pokemon": {
       "name": "Arcanine",
       "slug": "arcanine",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png"
+      "icon": "59"
     }
   },
   {
@@ -3110,7 +3111,7 @@
     "pokemon": {
       "name": "Arcanine",
       "slug": "arcanine",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png"
+      "icon": "59"
     }
   },
   {
@@ -3119,7 +3120,7 @@
     "pokemon": {
       "name": "Weedle",
       "slug": "weedle",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png"
+      "icon": "13"
     }
   },
   {
@@ -3128,7 +3129,7 @@
     "pokemon": {
       "name": "Weedle",
       "slug": "weedle",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png"
+      "icon": "13"
     }
   },
   {
@@ -3137,7 +3138,7 @@
     "pokemon": {
       "name": "Kricketune",
       "slug": "kricketune",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/402.png"
+      "icon": "402"
     }
   },
   {
@@ -3146,7 +3147,7 @@
     "pokemon": {
       "name": "Florges",
       "slug": "florges",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png"
+      "icon": "671"
     }
   },
   {
@@ -3155,7 +3156,7 @@
     "pokemon": {
       "name": "Florges",
       "slug": "florges",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png"
+      "icon": "671"
     }
   },
   {
@@ -3164,7 +3165,7 @@
     "pokemon": {
       "name": "Bulbasaur",
       "slug": "bulbasaur",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+      "icon": "1"
     }
   },
   {
@@ -3173,7 +3174,7 @@
     "pokemon": {
       "name": "Bulbasaur",
       "slug": "bulbasaur",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+      "icon": "1"
     }
   },
   {
@@ -3182,7 +3183,7 @@
     "pokemon": {
       "name": "Bulbasaur",
       "slug": "bulbasaur",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+      "icon": "1"
     }
   },
   {
@@ -3191,7 +3192,7 @@
     "pokemon": {
       "name": "Seaking",
       "slug": "seaking",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png"
+      "icon": "119"
     }
   },
   {
@@ -3200,7 +3201,7 @@
     "pokemon": {
       "name": "Seaking",
       "slug": "seaking",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png"
+      "icon": "119"
     }
   },
   {
@@ -3209,7 +3210,7 @@
     "pokemon": {
       "name": "Sandslash",
       "slug": "sandslash",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/28.png"
+      "icon": "28"
     }
   },
   {
@@ -3218,7 +3219,7 @@
     "pokemon": {
       "name": "Sandslash",
       "slug": "sandslash",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/28.png"
+      "icon": "28"
     }
   },
   {
@@ -3227,7 +3228,7 @@
     "pokemon": {
       "name": "Sandslash",
       "slug": "sandslash",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/28.png"
+      "icon": "28"
     }
   },
   {
@@ -3236,7 +3237,7 @@
     "pokemon": {
       "name": "Larvitar",
       "slug": "larvitar",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png"
+      "icon": "246"
     }
   },
   {
@@ -3245,7 +3246,7 @@
     "pokemon": {
       "name": "Larvitar",
       "slug": "larvitar",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png"
+      "icon": "246"
     }
   },
   {
@@ -3254,7 +3255,7 @@
     "pokemon": {
       "name": "Onix",
       "slug": "onix",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png"
+      "icon": "95"
     }
   },
   {
@@ -3263,7 +3264,7 @@
     "pokemon": {
       "name": "Onix",
       "slug": "onix",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png"
+      "icon": "95"
     }
   },
   {
@@ -3272,7 +3273,7 @@
     "pokemon": {
       "name": "Onix",
       "slug": "onix",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png"
+      "icon": "95"
     }
   },
   {
@@ -3281,7 +3282,7 @@
     "pokemon": {
       "name": "Onix",
       "slug": "onix",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png"
+      "icon": "95"
     }
   },
   {
@@ -3290,7 +3291,7 @@
     "pokemon": {
       "name": "Clefable",
       "slug": "clefable",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png"
+      "icon": "36"
     }
   },
   {
@@ -3299,7 +3300,7 @@
     "pokemon": {
       "name": "Clefable",
       "slug": "clefable",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png"
+      "icon": "36"
     }
   },
   {
@@ -3308,7 +3309,7 @@
     "pokemon": {
       "name": "Clefable",
       "slug": "clefable",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png"
+      "icon": "36"
     }
   },
   {
@@ -3317,7 +3318,7 @@
     "pokemon": {
       "name": "Elekid",
       "slug": "elekid",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png"
+      "icon": "239"
     }
   },
   {
@@ -3326,7 +3327,7 @@
     "pokemon": {
       "name": "Elekid",
       "slug": "elekid",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png"
+      "icon": "239"
     }
   },
   {
@@ -3335,7 +3336,7 @@
     "pokemon": {
       "name": "Elekid",
       "slug": "elekid",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png"
+      "icon": "239"
     }
   },
   {
@@ -3344,7 +3345,7 @@
     "pokemon": {
       "name": "Venonat",
       "slug": "venonat",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png"
+      "icon": "48"
     }
   },
   {
@@ -3353,7 +3354,7 @@
     "pokemon": {
       "name": "Venusaur",
       "slug": "venusaur",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+      "icon": "3"
     }
   },
   {
@@ -3362,7 +3363,7 @@
     "pokemon": {
       "name": "Venusaur",
       "slug": "venusaur",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+      "icon": "3"
     }
   },
   {
@@ -3371,7 +3372,7 @@
     "pokemon": {
       "name": "Magby",
       "slug": "magby",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png"
+      "icon": "240"
     }
   },
   {
@@ -3380,7 +3381,7 @@
     "pokemon": {
       "name": "Snorunt",
       "slug": "snorunt",
-      "icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/361.png"
+      "icon": "361"
     }
   }
 ]
